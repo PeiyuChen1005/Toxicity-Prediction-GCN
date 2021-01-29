@@ -6,7 +6,7 @@ During our lifetimes, we are exposed to different chemicals and some of which ma
 
 ### :earth_asia: Environment
 
-![]()![]()
+![](https://img.shields.io/badge/Python-3.7.9-green)![](https://img.shields.io/badge/Pytorch-1.1.0-orange)![](https://img.shields.io/badge/rdkit-2020-blue)
 
 ### :oil_drum: Data set
 
@@ -14,7 +14,7 @@ The data set is from the kaggle competition [Drug Molecular Toxicity Prediction]
 
 ### :m: Model
 
-![]()
+![](https://github.com/PeiyuChen1005/Toxicity-Prediction-GCN/blob/main/img/GCN.png?raw=true)
 
 ### :triangular_flag_on_post: Performance
 
